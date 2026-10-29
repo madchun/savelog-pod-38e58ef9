@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SaveLog 粵語日報</title>
+    <link>https://madchun.github.io/savelog-pod-38e58ef9/f198e6aa33d8ba993b4cc8f76f3d5138/</link>
+    <atom:link href="https://madchun.github.io/savelog-pod-38e58ef9/f198e6aa33d8ba993b4cc8f76f3d5138/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-HK</language>
+    <description>每日香港粵語 podcast：整理你喺 X save 低嘅 post 同 YouTube 片重點，同埋對 Deptai（AI、顧問、開發方案）生意嘅影響。私人 feed。</description>
+    <itunes:summary>每日香港粵語 podcast：整理你喺 X save 低嘅 post 同 YouTube 片重點，同埋對 Deptai 生意嘅影響。私人 feed。</itunes:summary>
+    <itunes:author>sha shar</itunes:author>
+    <itunes:owner><itunes:name>sha shar</itunes:name></itunes:owner>
+    <itunes:image href="https://madchun.github.io/savelog-pod-38e58ef9/f198e6aa33d8ba993b4cc8f76f3d5138/cover.jpg"/>
+    <image><url>https://madchun.github.io/savelog-pod-38e58ef9/f198e6aa33d8ba993b4cc8f76f3d5138/cover.jpg</url><title>SaveLog 粵語日報</title><link>https://madchun.github.io/savelog-pod-38e58ef9/f198e6aa33d8ba993b4cc8f76f3d5138/</link></image>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>yes</itunes:block>
+    <lastBuildDate>Thu, 29 Oct 2026 15:11:47 +0800</lastBuildDate>
+    <item>
+      <title>第1集｜2026-10-29</title>
+      <description>SaveLog 粵語日報 2026-10-29：你喺 X save 低嘅 post 重點，同埋對 Deptai 生意嘅影響。
+
+今集內容：
+• @thorstenball：How I work with Agents
+• @CrazyKaomei：拆解 DeRonin 嘅 AI 一人公司
+• @AdrianPunk115：用企業組織架構管理 Grok Bot
+• @HamelHusain：用 Decision Model 做 Eval
+• @0x_rody：將 Jev 接入 Grok Bot 做 router
+• @kr0der：叫 coordinator 主動匯報</description>
+      <itunes:summary>SaveLog 粵語日報 2026-10-29：你喺 X save 低嘅 post 重點，同埋對 Deptai 生意嘅影響。
+
+今集內容：
+• @thorstenball：How I work with Agents
+• @CrazyKaomei：拆解 DeRonin 嘅 AI 一人公司
+• @AdrianPunk115：用企業組織架構管理 Grok Bot
+• @HamelHusain：用 Decision Model 做 Eval
+• @0x_rody：將 Jev 接入 Grok Bot 做 router
+• @kr0der：叫 coordinator 主動匯報</itunes:summary>
+      <enclosure url="https://madchun.github.io/savelog-pod-38e58ef9/f198e6aa33d8ba993b4cc8f76f3d5138/episodes/2026-10-29.mp3" length="7749842" type="audio/mpeg"/>
+      <guid isPermaLink="false">savelog-yueyu-2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 +0800</pubDate>
+      <itunes:duration>00:08:04</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
