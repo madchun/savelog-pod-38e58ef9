@@ -9,5 +9,15 @@
       "@0x_rody：將 Jev 接入 Grok Bot 做 router",
       "@kr0der：叫 coordinator 主動匯報"
     ]
+  },
+  "2026-10-31": {
+    "summary": "SaveLog 粵語日報 2026-10-31：你喺 X save 低嘅 post 重點，同埋對 Deptai 生意嘅影響。",
+    "topics": [
+      "@rowancheung：四個 Grok Bot routine",
+      "@HeyGen：Jev 配 HeyGen MCP",
+      "@dontbesilent：點樣將你嘅經驗教落 AI",
+      "@DhravyaShah：開源 company brain",
+      "@UberEng：Uber 規模嘅軟件工廠"
+    ]
   }
 }

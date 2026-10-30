@@ -15,7 +15,33 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Thu, 29 Oct 2026 15:11:47 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:41:14 +0800</lastBuildDate>
+    <item>
+      <title>第2集｜2026-10-31</title>
+      <description>SaveLog 粵語日報 2026-10-31：你喺 X save 低嘅 post 重點，同埋對 Deptai 生意嘅影響。
+
+今集內容：
+• @rowancheung：四個 Grok Bot routine
+• @HeyGen：Jev 配 HeyGen MCP
+• @dontbesilent：點樣將你嘅經驗教落 AI
+• @DhravyaShah：開源 company brain
+• @UberEng：Uber 規模嘅軟件工廠</description>
+      <itunes:summary>SaveLog 粵語日報 2026-10-31：你喺 X save 低嘅 post 重點，同埋對 Deptai 生意嘅影響。
+
+今集內容：
+• @rowancheung：四個 Grok Bot routine
+• @HeyGen：Jev 配 HeyGen MCP
+• @dontbesilent：點樣將你嘅經驗教落 AI
+• @DhravyaShah：開源 company brain
+• @UberEng：Uber 規模嘅軟件工廠</itunes:summary>
+      <enclosure url="https://madchun.github.io/savelog-pod-38e58ef9/f198e6aa33d8ba993b4cc8f76f3d5138/episodes/2026-10-31.mp3" length="8509274" type="audio/mpeg"/>
+      <guid isPermaLink="false">savelog-yueyu-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 +0800</pubDate>
+      <itunes:duration>00:08:52</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>第1集｜2026-10-29</title>
       <description>SaveLog 粵語日報 2026-10-29：你喺 X save 低嘅 post 重點，同埋對 Deptai 生意嘅影響。
